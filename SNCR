@@ -1,0 +1,5 @@
+POST  https://api-gateway.prd.apps.anvisa.gov.br/api-sncr/api/v1/numeracoes/notificacao-receita HTTP/1.1
+Host: api-gateway.prd.apps.anvisa.gov.br
+Accept: application/json
+Authorization: Bearer <token_gov_br>
+Content-Type: application/json
